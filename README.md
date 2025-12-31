@@ -5,10 +5,14 @@
 </p>
 
 ### 👨‍💻 About Me
-- **Web Developer** passionate about crafting seamless digital experiences and complex logic.
-- 🚀 Specialized in **React**, **TypeScript**, and **Interactive 3D Web Visualizations**.
-- 🛠️ Currently focusing on building efficient system management tools and performance optimization.
-- 🎨 I believe that good code is not just functional, but also beautiful and scalable.
+
+I am a **Web Developer** who lives at the intersection of logic and aesthetics. My journey is driven by a passion for building complex, data-driven applications that are as powerful as they are beautiful.
+
+- 🚀 **What I do:** Specialized in the **React ecosystem**, I architect scalable web applications with a focus on high performance and seamless user experiences.
+- 🛠️ **Current Focus:** I'm currently diving deep into the world of **Storage Management UI**, working on a front-end project for **ZFS storage visualization**. I love the challenge of turning complex system data into intuitive.
+- ✨ **My Philosophy:** I don't just write code; I craft systems. I’m a firm believer in **Clean Architecture**, **SOLID principles**, and the "Don't Repeat Yourself" (DRY) mantra.
+- 📈 **Continuous Growth:** When I'm not pushing commits, I'm exploring the latest in **TypeScript**, **Next.js Server Components**, or experimenting with **3D web graphics** to push the boundaries of the browser.
+- 💬 **Let's Talk:** I’m always open to collaborating on open-source projects or discussing the future of web performance.
 
 ---
 
