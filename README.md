@@ -44,10 +44,14 @@ I am a **Web Developer** who lives at the intersection of logic and aesthetics. 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmirRezaDavarzani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaDavarzani&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmirRezaDavarzani&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
