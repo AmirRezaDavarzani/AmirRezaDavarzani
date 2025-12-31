@@ -9,7 +9,7 @@
 I am a **Web Developer** who lives at the intersection of logic and aesthetics. My journey is driven by a passion for building complex, data-driven applications that are as powerful as they are beautiful.
 
 - 🚀 **What I do:** Specialized in the **React ecosystem**, I architect scalable web applications with a focus on high performance and seamless user experiences.
-- 🛠️ **Current Focus:** I'm currently diving deep into the world of **Storage Management UI**, working on a front-end project for **ZFS storage visualization**. I love the challenge of turning complex system data into intuitive.
+- 🛠️ **Current Focus:** I'm currently diving deep into the world of **Storage Management UI**, working on a front-end project for **ZFS storage visualization**. I love the challenge of turning complex system data into intuitive interfaces.
 - ✨ **My Philosophy:** I don't just write code; I craft systems. I’m a firm believer in **Clean Architecture**, **SOLID principles**, and the "Don't Repeat Yourself" (DRY) mantra.
 - 📈 **Continuous Growth:** When I'm not pushing commits, I'm exploring the latest in **TypeScript**, **Next.js Server Components**, or experimenting with **3D web graphics** to push the boundaries of the browser.
 - 💬 **Let's Talk:** I’m always open to collaborating on open-source projects or discussing the future of web performance.
@@ -46,8 +46,8 @@ I am a **Web Developer** who lives at the intersection of logic and aesthetics. 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmirRezaDavarzani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaDavarzani&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -55,8 +55,8 @@ I am a **Web Developer** who lives at the intersection of logic and aesthetics. 
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/seyyed-amir-reza-davarzani-13812003j" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:sard81.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
